@@ -133,5 +133,5 @@
 ---
 
 <p align="center">
-  © 2025 Nexacore Digital LTD • Crafted with creativity, innovation & strategy
+  © 2026 Nexacore Digital LTD • Crafted with creativity, innovation & strategy
 </p>
